@@ -9,3 +9,8 @@ h2 {
     font-weight: bold;
     font-family:'Comic Sans';
 }
+
+.class {
+    color: red;
+    font-size: 17px;
+}
